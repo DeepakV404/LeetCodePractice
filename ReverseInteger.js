@@ -30,3 +30,5 @@ console.log(reverse(123654));
 console.log(reverse(-123654));
 console.log(reverse(12365400000));
 console.log(reverse(12365468732137));
+console.log(reverse("214758"));
+console.log(reverse("ad5465"));
